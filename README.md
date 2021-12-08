@@ -1,2 +1,2 @@
-# Arduino
-Arduino code for TACR project
+# Evaporimeter TACR resources
+Arduino firmware and data extraction scripts
